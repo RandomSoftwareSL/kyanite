@@ -1,2 +1,2 @@
 # kyanite
-Common eact Native Framework 
+Common React Native Framework 
